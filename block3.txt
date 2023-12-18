@@ -1,0 +1,7 @@
+@@||youporn.com
+||youporn.com^
+||youporn.com
+youporn.com##a[href*="youporn.com"]
+youporn.com###youporn
+youporn.com##.youporn
+youporn.com##youporn
